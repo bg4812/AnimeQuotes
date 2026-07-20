@@ -1,0 +1,228 @@
+[
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.DisplaysController",
+    "Method": "GetDisplays",
+    "RelativePath": "api/Displays",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.DisplaysController",
+    "Method": "Create",
+    "RelativePath": "api/Displays",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AnimeQuotes.Api.DTOs.CreateDisplayDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.DisplaysController",
+    "Method": "PopulateFromTags",
+    "RelativePath": "api/Displays/{displayId}/populate-from-tags",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "displayId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "AnimeQuotes.Api.DTOs.PopulateDisplayFromTagsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.DisplaysController",
+    "Method": "AddQuoteToDisplay",
+    "RelativePath": "api/Displays/{displayId}/quotes/{quoteId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "displayId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "quoteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.DisplaysController",
+    "Method": "RemoveQuoteFromDisplay",
+    "RelativePath": "api/Displays/{displayId}/quotes/{quoteId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "displayId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "quoteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.DisplaysController",
+    "Method": "Update",
+    "RelativePath": "api/Displays/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "AnimeQuotes.Api.DTOs.UpdateDisplayDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.DisplaysController",
+    "Method": "GetDisplayQuotes",
+    "RelativePath": "api/Displays/{id}/quotes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.QuotesController",
+    "Method": "Get",
+    "RelativePath": "api/Quotes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.QuotesController",
+    "Method": "Create",
+    "RelativePath": "api/Quotes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AnimeQuotes.Api.DTOs.CreateQuoteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.QuotesController",
+    "Method": "GetById",
+    "RelativePath": "api/Quotes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.QuotesController",
+    "Method": "GetDisplayQuotes",
+    "RelativePath": "api/Quotes/display",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tags",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.QuotesController",
+    "Method": "FilterByTags",
+    "RelativePath": "api/Quotes/filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tags",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.QuotesController",
+    "Method": "GetByTag",
+    "RelativePath": "api/Quotes/tag/{tag}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AnimeQuotes.Api.Controllers.TagsController",
+    "Method": "Get",
+    "RelativePath": "api/Tags",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

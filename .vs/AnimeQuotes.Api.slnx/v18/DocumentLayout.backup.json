@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\controllers\\displayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\controllers\\displayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\models\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\models\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\dtos\\updatedisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\dtos\\updatedisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Migrations\\20260720185455_AddDisplayTheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeQuotes.Api\\Migrations\\20260720185455_AddDisplayTheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\dtos\\createdisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\dtos\\createdisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\dtos\\populatedisplayfromtagsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\dtos\\populatedisplayfromtagsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\dtos\\createquotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\dtos\\createquotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\models\\displayquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\models\\displayquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\models\\quotetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\models\\quotetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\models\\displaytag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\models\\displaytag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\models\\animecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\models\\animecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|c:\\users\\bgardner\\source\\repos\\animequotes.api\\animequotes.api\\models\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9163E222-441E-4A09-B5D8-C5941AD270FB}|AnimeQuotes.Api\\AnimeQuotes.Api.csproj|solutionrelative:animequotes.api\\models\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateDisplayDto.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\DTOs\\UpdateDisplayDto.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\DTOs\\UpdateDisplayDto.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\DTOs\\UpdateDisplayDto.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\DTOs\\UpdateDisplayDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T18:59:23.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260720185455_AddDisplayTheme.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Migrations\\20260720185455_AddDisplayTheme.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Migrations\\20260720185455_AddDisplayTheme.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Migrations\\20260720185455_AddDisplayTheme.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Migrations\\20260720185455_AddDisplayTheme.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T18:54:56.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DisplayQuote.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\DisplayQuote.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Models\\DisplayQuote.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\DisplayQuote.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Models\\DisplayQuote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T19:55:17.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PopulateDisplayFromTagsDto.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\DTOs\\PopulateDisplayFromTagsDto.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\DTOs\\PopulateDisplayFromTagsDto.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\DTOs\\PopulateDisplayFromTagsDto.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\DTOs\\PopulateDisplayFromTagsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T20:48:22.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateQuoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\DTOs\\CreateQuoteDto.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\DTOs\\CreateQuoteDto.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\DTOs\\CreateQuoteDto.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\DTOs\\CreateQuoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T19:07:34.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Program.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T16:22:22.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuoteTag.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\QuoteTag.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Models\\QuoteTag.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\QuoteTag.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Models\\QuoteTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T19:21:34.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateDisplayDto.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\DTOs\\CreateDisplayDto.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\DTOs\\CreateDisplayDto.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\DTOs\\CreateDisplayDto.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\DTOs\\CreateDisplayDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T19:07:17.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplaysController.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Controllers\\DisplaysController.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Controllers\\DisplaysController.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Controllers\\DisplaysController.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Controllers\\DisplaysController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAI4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T19:06:34.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DisplayTag.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\DisplayTag.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Models\\DisplayTag.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\DisplayTag.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Models\\DisplayTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T18:58:30.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\Display.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Models\\Display.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\Display.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Models\\Display.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T18:58:06.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T18:26:37.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuotesController.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Controllers\\QuotesController.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Controllers\\QuotesController.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Controllers\\QuotesController.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Controllers\\QuotesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T18:52:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:54:26.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Models\\Quote.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\Quote.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Models\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:39:20.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnimeCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\AnimeCharacter.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Models\\AnimeCharacter.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\AnimeCharacter.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Models\\AnimeCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:38:50.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Anime.cs",
+              "DocumentMoniker": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\Anime.cs",
+              "RelativeDocumentMoniker": "AnimeQuotes.Api\\Models\\Anime.cs",
+              "ToolTip": "C:\\Users\\bgardner\\source\\repos\\AnimeQuotes.Api\\AnimeQuotes.Api\\Models\\Anime.cs",
+              "RelativeToolTip": "AnimeQuotes.Api\\Models\\Anime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:38:29.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
